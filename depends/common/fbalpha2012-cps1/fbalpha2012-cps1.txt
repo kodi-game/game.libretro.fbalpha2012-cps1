@@ -1,1 +1,1 @@
-fbalpha2012-cps1 https://github.com/libretro/fbalpha2012_cps1/archive/2799309b7c74cdb11be24509368b4d6ce1b148b1.tar.gz
+fbalpha2012-cps1 https://github.com/libretro/fbalpha2012_cps1/archive/b70acf03fd28fd714cdc97a90a92aacbafcd2212.tar.gz
