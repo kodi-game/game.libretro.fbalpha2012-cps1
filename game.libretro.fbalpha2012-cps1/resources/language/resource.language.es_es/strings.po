@@ -34,7 +34,7 @@ msgid "CPU Speed (%)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Hiscores"
+msgid "High scores"
 msgstr ""
 
 msgctxt "#30003"
