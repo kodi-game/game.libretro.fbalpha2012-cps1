@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.fbalpha2012-cps1\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 19:49i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-22 22:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-fbalpha2012-cps1/sv_se/>\n"
 "Language: sv_se\n"
@@ -33,15 +33,13 @@ msgctxt "#30002"
 msgid "High scores"
 msgstr "Höga poäng"
 
-#, fuzzy
 msgctxt "#30003"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Aspect Ratio som tillhandahålls av Core"
+msgstr "Bildförhållande som tillhandahålls av kärna"
 
-#, fuzzy
 msgctxt "#30004"
 msgid "Rotate Vertically Aligned Games (Restart)"
-msgstr "Rotera vertikalt inriktade spel (omstart)"
+msgstr "Rotera vertikalt justerade spel (omstart)"
 
 msgctxt "#30005"
 msgid "Audio Filter"
