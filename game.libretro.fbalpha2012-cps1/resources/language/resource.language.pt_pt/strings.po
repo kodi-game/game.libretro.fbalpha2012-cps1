@@ -43,7 +43,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtro de som"
 
 msgctxt "#30006"
 msgid "Audio Filter Level (%)"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30018"
 msgid "Manual"

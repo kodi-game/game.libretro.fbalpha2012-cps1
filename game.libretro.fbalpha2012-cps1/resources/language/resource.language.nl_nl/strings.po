@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30018"
 msgid "Manual"

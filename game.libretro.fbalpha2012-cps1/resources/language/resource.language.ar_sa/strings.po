@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "سرعة CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
@@ -43,7 +43,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Audio Filter"
-msgstr ""
+msgstr "تصفية الصوت"
 
 msgctxt "#30006"
 msgid "Audio Filter Level (%)"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "تمكين الإفراط في تسجيل المعالج المحاكي. يمكن أن يقلل من التباطؤ، ولكن يمكن أن يسبب خلل."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -91,16 +91,16 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgctxt "#30018"
 msgid "Manual"
-msgstr ""
+msgstr "يدوي"
 
 msgctxt "#30019"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "عندما يتم تعيين 'Frameskip' إلى 'يدوي'، يحدد عتبة شغل التخزين المؤقت الصوتي (النسبة المئوية) التي سيتم تخطي الأطر أدناه. فارتفاع القيم يقلل من خطر التشويش بالتسبب في انخفاض الأطر بصورة أكثر تواترا."
 
 msgctxt "#30020"
 msgid "Toggle ON then resume content to open service menu."
-msgstr ""
+msgstr "تبديل تشغيل ثم استئناف المحتوى لفتح قائمة الخدمة."

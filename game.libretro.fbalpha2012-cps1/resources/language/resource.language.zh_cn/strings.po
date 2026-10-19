@@ -35,7 +35,7 @@ msgstr "高分"
 
 msgctxt "#30003"
 msgid "Core-Provided Aspect Ratio"
-msgstr "核心提供的纵横比"
+msgstr "核心提供的宽高比"
 
 msgctxt "#30004"
 msgid "Rotate Vertically Aligned Games (Restart)"
@@ -43,7 +43,7 @@ msgstr "旋转垂直对齐的游戏（重新启动）"
 
 msgctxt "#30005"
 msgid "Audio Filter"
-msgstr "音频滤波器"
+msgstr "音频过滤器"
 
 msgctxt "#30006"
 msgid "Audio Filter Level (%)"
@@ -51,11 +51,11 @@ msgstr "音频滤波器电平（%）"
 
 msgctxt "#30007"
 msgid "Frameskip"
-msgstr "帧跳过"
+msgstr "跳帧"
 
 msgctxt "#30008"
 msgid "Frameskip Threshold (%)"
-msgstr "帧跳过阈值（%）"
+msgstr "跳帧阈值(%)"
 
 msgctxt "#30009"
 msgid "Diagnostic Input"
@@ -63,7 +63,7 @@ msgstr "诊断输入"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "启用模拟CPU的超频功能。此功能可以提升运行速度，但可能会导致屏幕闪烁。"
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -87,23 +87,23 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "跳过帧以避免运行下的音频缓冲区(崩溃)。提高性能以牺牲视觉性能。 “自动”跳板帧在前端建议时。“手动”使用了“Frameskip 阈值(%)”设置。"
 
 msgctxt "#30017"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30018"
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 msgctxt "#30019"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "当“跳帧”功能设置成“手动”，请在下方指定跳帧占音频缓存的比例（百分比）。更高的值可以降低因频繁丢帧而导致的爆音风险。"
 
 msgctxt "#30020"
 msgid "Toggle ON then resume content to open service menu."
-msgstr ""
+msgstr "切换到开启状态并恢复内容，以打开服务菜单."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
